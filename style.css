@@ -1,0 +1,32 @@
+h1 {
+    color: darkcyan;
+    background-color: ghostwhite;
+    font-size: 60px;
+
+}
+
+p{
+    color: darkblue;
+    background-color: ghostwhite;
+    font-family: Arial;
+
+}
+
+li {
+    color: darkblue;
+    background-color: ghostwhite;
+    font-family: Helvetica;
+}
+
+body {
+    font-size: 25px;
+    background-color: skyblue;
+}
+
+.different{
+    color: purple;
+}
+
+.picture{
+    background-color: transparent;
+}
